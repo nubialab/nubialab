@@ -24,7 +24,7 @@ Sou Núbia, uma desenvolvedora iniciante apaixonada por tecnologia e programaç�
 
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nubialab&show_icons=true&theme=radical&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" />
 </div>
 
