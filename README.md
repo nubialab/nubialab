@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-Sou [Seu Nome], uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
+Sou Núbia, uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 
 ---
 
@@ -18,6 +18,7 @@ Sou [Seu Nome], uma desenvolvedora iniciante apaixonada por tecnologia e program
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -35,5 +36,5 @@ Sou [Seu Nome], uma desenvolvedora iniciante apaixonada por tecnologia e program
 ---
 
 ### 🌐 **Onde Me Encontrar**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-- 📧 Email: [seu-email](mailto:seu-email@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/núbia-pianca-252a75301/)
+- 📧 Email: [seu-email](mailto:nubialab@gmail.com)
