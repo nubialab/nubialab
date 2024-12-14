@@ -37,4 +37,4 @@ Sou Núbia, uma desenvolvedora iniciante apaixonada por tecnologia e programaç�
 
 ### 🌐 **Onde Me Encontrar**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/núbia-pianca-252a75301/)
-- 📧 Email: [seu-email](mailto:nubialab@gmail.com)
+- 📧 Email: [nubialab@gmail.com](mailto:nubialab@gmail.com)
