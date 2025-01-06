@@ -1,4 +1,4 @@
-![Minha Imagem](img/img-readme.png)
+![Minha Imagem](img/img-hello.png)
 
 Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 
