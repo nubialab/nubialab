@@ -1,5 +1,5 @@
 <p>
-  <img src="img/img-hello.png" alt="Minha Imagem" style="display: inline-block; margin-right: 10px;"/>
+  <img src="img/hello.png" alt="Minha Imagem" style="display: inline-block;"/>
   <img src="https://media1.tenor.com/m/_mUKMulve5MAAAAd/anya-spy-x-family.gif" alt="GIF" width="140" style="display: inline-block;"/>
 </p>
 
