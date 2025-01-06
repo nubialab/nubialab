@@ -1,6 +1,6 @@
-# Olá, mundo! 👋
+![Minha Imagem](img/img-readme.png)
 
-Sou Núbia, uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
+Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 
 ---
 
