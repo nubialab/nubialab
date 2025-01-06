@@ -24,17 +24,46 @@ Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nubialab&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nubialab&show_icons=true&theme=omni&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubialab&layout=compact&theme=omni" />
 </div>
 
 ---
 
-### 🏆 **Badges e Conquistas**
-![Badge](https://img.shields.io/badge/-Iniciante-brightgreen?style=flat-square)
+### 📂 **Repositórios**
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nubialab/aplicacao-animada">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=aplicacao-animada&theme=omni" alt="aplicacao-animada">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nubialab/pagina-de-login">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=pagina-de-login&theme=omni" alt="pagina-de-login">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nubialab/previsao-do-tempo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=previsao-do-tempo&theme=omni" alt="previsao-do-tempo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nubialab/nubialab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=nubialab&theme=omni" alt="nubialab">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 **Onde Me Encontrar**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/núbia-pianca-252a75301/)
-- 📧 Email: [nubialab@gmail.com](mailto:nubialab@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:devnubia@gmail.com)
+
+
+
