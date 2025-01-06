@@ -1,4 +1,7 @@
-![Minha Imagem](img/img-hello.png)
+<p align="left">
+  <img src="img/img-hello.png" alt="Minha Imagem"/>
+  <img src="https://media1.tenor.com/m/_mUKMulve5MAAAAd/anya-spy-x-family.gif" alt="GIF" width="140"/>
+</p>
 
 Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 
@@ -32,7 +35,7 @@ Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 
 ### 📂 **Repositórios**
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/nubialab/aplicacao-animada">
@@ -58,6 +61,9 @@ Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
     </td>
   </tr>
 </table>
+
+  <h4 align="center">
+  <a href="https://github.com/nubialab?tab=repositories" title="Show Repositories">⬇️ Mostrar mais</a>
 
 ---
 
