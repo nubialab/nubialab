@@ -1,6 +1,6 @@
 <p>
-  <img src="img/hello.png" alt="Minha Imagem" style="display: inline-block;"/>
-  <img src="https://media1.tenor.com/m/_mUKMulve5MAAAAd/anya-spy-x-family.gif" alt="GIF" width="140" style="display: inline-block;"/>
+  <img src="img/img-hello.png" alt="Minha Imagem" style="display: inline-block;"/>
+  <img src="https://media1.tenor.com/m/_mUKMulve5MAAAAd/anya-spy-x-family.gif" alt="GIF" style="border-radius: 50%; width: 110px; height: 110px;"/>
 </p>
 
 Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
