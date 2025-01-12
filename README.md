@@ -47,11 +47,21 @@ Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=pagina-de-login&theme=omni" alt="pagina-de-login">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/nubialab/playstation-store">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=playstation-store&theme=omni" alt="playstation-store">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/nubialab/previsao-do-tempo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=previsao-do-tempo&theme=omni" alt="previsao-do-tempo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nubialab/coffee-store">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubialab&repo=coffee-store&theme=omni" alt="coffee-store">
       </a>
     </td>
     <td>
