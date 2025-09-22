@@ -10,7 +10,6 @@ Uma desenvolvedora iniciante apaixonada por tecnologia e programação! 🚀
 ### 🌟 **Sobre mim**
 - 📚 Explorando o universo da programação.
 - 🛠️ Aprendendo: `JavaScript`, `HTML/CSS`, `Python` e mais!
-- 🎯 Foco em: Desenvolvimento Web.
 - ✨ Amo compartilhar o que aprendo no caminho!
 
 ---
